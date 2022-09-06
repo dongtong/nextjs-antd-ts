@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "antd": "^4.21.7",
+    "antd": "^4.23.0",
+    "axios": "^0.27.2",
     "dayjs": "^1.11.3",
     "lodash": "^4.17.21",
     "next": "12.2.2",
     "next-plugin-antd-less": "^1.8.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sass": "^1.54.8",
     "util": "^0.12.4"
   },
   "devDependencies": {
